@@ -1,8 +1,8 @@
 <!-- Intro / Top -->
 
-Hi, I’m **[Your Name]** 👋  
+Hi, I’m **[Joshua Duncan]** 👋  
 
-I like building things around **[your main interests – e.g. privacy, music, interactive visuals]** using **[your main stack – e.g. TypeScript, React, Node, Python, etc.]**.
+I like building things around **[your main interests – e.g. privacy, music, interactive visuals]** using **[TypeScript, React, Node, Python, etc.]**.
 
 ---
 

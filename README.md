@@ -2,7 +2,7 @@
 
 Hi, I’m **[Joshua Duncan]** 👋  
 
-I like building things around **[your main interests – e.g. privacy, music, interactive visuals]** using **[TypeScript, React, Node, Python, etc.]**.
+I like building things around with weird quirks that might be useful one day using **[TypeScript, React, Node, Python, etc.]**.
 
 ---
 
